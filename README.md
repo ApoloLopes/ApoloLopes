@@ -26,9 +26,8 @@ parallel to that, recently i incorporated in my projects of system of
 Git versioning integrated with GitHub and law to study android development
 using a Kotlin programming language and Android Studio IDE. And currently I have been doing personal projects involving the development of API'S RESTful using both Java and NodeJS.
 
-### Check out my projects!! 🔭🔭🔭😄😄😄
-
 LinkedIn: https://www.linkedin.com/in/lopesapolo/
 
 Ig: https://www.instagram.com/apolo_lopes/
 
+### Check out my projects here in GitHub!! 🔭🔭🔭😄😄😄
