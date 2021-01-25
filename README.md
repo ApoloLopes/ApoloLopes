@@ -29,5 +29,6 @@ using a Kotlin programming language and Android Studio IDE. And currently I have
 ### Check out my projects!! 🔭🔭🔭😄😄😄
 
 LinkedIn: https://www.linkedin.com/in/lopesapolo/
-Ig: @apolo_lopes
+
+Ig: https://www.instagram.com/apolo_lopes/
 
